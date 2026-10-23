@@ -5,9 +5,9 @@
 
 ☁️ **100 Days of AWS | Portfolio of Evidence (PoE)**
 
-* **Status:** Day 50/100
-* **Curriculum:** KodeKloud
-* **Primary Focus:** Cloud Administration & Infrastructure
+- **Status:** Day 50/100
+- **Curriculum:** KodeKloud
+- **Primary Focus:** Cloud Administration & Infrastructure
 
 This repository serves as a technical Portfolio of Evidence documenting my journey to master **Amazon Web Services (AWS)**. It contains lab reports, architectural notes, and automation scripts.
 
@@ -22,16 +22,13 @@ I have structured my learning to align with real-world roles. My first 50 days h
 | 🟨 **Data Engineer** | 10% | RDS, DynamoDB, Kinesis, Database Migration (DMS) |
 
 ## 📂 Repository Structure
-* **Day 01-15:** AWS Basics (EC2, IAM, VPC Basics)
-* **Day 16-20:** Storage (S3, EBS, EFS) & CloudFormation
-* **Day 21-30:** Advanced Networking (Route53) & Databases (RDS)
-* **Day 31-40:** Serverless (Lambda, API Gateway) & Containers
-* **Day 41-50:** Monitoring (CloudWatch), EKS & Security
+- **Day 01-15:** AWS Basics (EC2, IAM, VPC Basics)
+- **Day 16-20:** Storage (S3, EBS, EFS) & CloudFormation
+- **Day 21-30:** Advanced Networking (Route53) & Databases (RDS)
+- **Day 31-40:** Serverless (Lambda, API Gateway) & Containers
+- **Day 41-50:** Monitoring (CloudWatch), EKS & Security
 
 ### 🚀 My Learning Path
 <img src="https://i.postimg.cc/90kYVSYq/Screenshot-from-2026-01-12-16-24-12.png" width="800" alt="Roadmap" />
 
 ---
-<div align="center">
-  Created by <a href="https://github.com/Kha-cyber-IT">Kha-cyber-IT</a>
-</div>
